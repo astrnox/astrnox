@@ -1,6 +1,4 @@
 ## Hi there 👋
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=astrnox)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=astrnox)](https://github.com/stats-organization/github-stats-extended)
 
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=astrnox)
