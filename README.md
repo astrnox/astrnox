@@ -25,10 +25,6 @@
 ## 🐍 贡献蛇
 ![contribution snake](https://raw.githubusercontent.com/astrnox/astrnox/output/github-snake.svg)
 
-<!-- ===== 成就奖杯 ===== -->
-## 🏆 成就
-![trophy](https://github-profile-trophy.vercel.app/?username=astrnox&theme=flat&column=4&v=20260818)
-
 <!-- ===== 连续提交 ===== -->
 ## 🔥 连续提交
 [![GitHub Streak](https://streak-stats.demolab.com?user=astrnox&theme=vue&v=20260818)](https://git.io/streak-stats)
