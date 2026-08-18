@@ -1,0 +1,31 @@
+name: Refresh GitHub Stats Cards
+
+on:
+  schedule:
+    - cron: "0 12 * * *"   # 每天 UTC 12:00（北京时间 20:00）自动运行
+  workflow_dispatch:        # 也支持在 Actions 页面手动点一下触发
+
+permissions:
+  contents: write           # 允许 Action 提交并推送 README
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Bump cache-buster in README
+        run: |
+          DATE=$(date -u +%Y%m%d)
+          # 把 README 里所有 &v=数字 刷成当天日期，绕过 GitHub 图片缓存
+          sed -i -E "s/(&v=)[0-9]+/\1$DATE/g" README.md
+          echo "缓存破坏参数已更新为 v=$DATE"
+
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "chore: refresh stats card cache [skip ci]"
+          git push
