@@ -32,7 +32,3 @@
 <!-- ===== 连续提交 ===== -->
 ## 🔥 连续提交
 [![GitHub Streak](https://streak-stats.demolab.com?user=astrnox&theme=vue&v=20260818)](https://git.io/streak-stats)
-
-<!-- ===== 访客计数 ===== -->
-## 👀 访客
-![Visitor Count](https://komarev.com/ghpvc/?username=astrnox&style=flat-square&color=blue)
