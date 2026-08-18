@@ -1,7 +1,38 @@
-## Hi there 👋这里这里
-Q me at 3930523703
-astrnox@163.com
+<!-- ===== 顶部标题区 ===== -->
+<div align="center">
+  <h1>👋 Hi, I'm astrnox</h1>
+</div>
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=astrnox&cache_seconds=86400&v=20260818)](https://github.com/stats-organization/github-stats-extended)
+<!-- ===== 联系方式 ===== -->
+## 📫 找到我
+- 💬 QQ：3930523703
+- ✉️ Email：astrnox@163.com
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=astrnox&layout=compact&langs_count=4&theme=vue&v=20260818)](https://github-stats-extended.vercel.app/api/top-langs?username=astrnox&layout=compact&langs_count=4&theme=vue)
+<!-- ===== 数据卡片（并排显示）===== -->
+## 📊 GitHub 数据
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://github-stats-extended.vercel.app/api?username=astrnox&cache_seconds=86400&v=20260818" alt="GitHub Stats" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=astrnox&layout=compact&langs_count=4&theme=vue&v=20260818" alt="Most Used Languages" />
+    </td>
+  </tr>
+</table>
+
+<!-- ===== 贡献蛇动画（由 snake.yml 每天生成）===== -->
+## 🐍 贡献蛇
+![contribution snake](https://raw.githubusercontent.com/astrnox/astrnox/output/github-snake.svg)
+
+<!-- ===== 成就奖杯 ===== -->
+## 🏆 成就
+![trophy](https://github-profile-trophy.vercel.app/?username=astrnox&theme=flat&column=4&v=20260818)
+
+<!-- ===== 连续提交 ===== -->
+## 🔥 连续提交
+[![GitHub Streak](https://streak-stats.demolab.com?user=astrnox&theme=vue&v=20260818)](https://git.io/streak-stats)
+
+<!-- ===== 访客计数 ===== -->
+## 👀 访客
+![Visitor Count](https://komarev.com/ghpvc/?username=astrnox&style=flat-square&color=blue)
