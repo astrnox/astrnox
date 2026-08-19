@@ -13,10 +13,10 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-      <img src="https://github-stats-extended.vercel.app/api?username=astrnox&cache_seconds=86400&v=20260818v=20260819" alt="GitHub Stats" />
+      <img src="https://github-stats-extended.vercel.app/api?username=astrnox&cache_seconds=86400&v=20260818v=20260819v=20260819" alt="GitHub Stats" />
     </td>
     <td valign="top" width="50%">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=astrnox&layout=compact&langs_count=4&theme=vue&v=20260818v=20260819" alt="Most Used Languages" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=astrnox&layout=compact&langs_count=4&theme=vue&v=20260818v=20260819v=20260819" alt="Most Used Languages" />
     </td>
   </tr>
 </table>
@@ -27,4 +27,4 @@
 
 <!-- ===== 连续提交 ===== -->
 ## 🔥 连续提交
-[![GitHub Streak](https://streak-stats.demolab.com?user=astrnox&theme=vue&v=20260818v=20260819)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=astrnox&theme=vue&v=20260818v=20260819v=20260819)](https://git.io/streak-stats)
