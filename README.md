@@ -11,11 +11,10 @@
 <!-- ===== 数据卡片（并排显示）===== -->
 ## 📊 GitHub 数据
 <table>
-  <tr>
-    <td valign="top" width="50%">
+
+
       <img src="https://github-stats-extended.vercel.app/api?username=astrnox&cache_seconds=86400&v=20260819v=20260820v=20260819v=20260819" alt="GitHub Stats" />
-    </td>
-  </tr>
+
 </table>
 <img src="https://raw.githubusercontent.com/astrnox/astrnox/main/github-metrics.svg" alt="Metrics" width="100%">
 <!-- ===== 贡献蛇动画（由 snake.yml 每天生成）===== -->
