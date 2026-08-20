@@ -20,7 +20,7 @@
     </td>
   </tr>
 </table>
-
+<img src="https://raw.githubusercontent.com/astrnox/astrnox/main/github-metrics.svg" alt="Metrics" width="100%">
 <!-- ===== 贡献蛇动画（由 snake.yml 每天生成）===== -->
 ## 🐍 贡献蛇
 ![contribution snake](https://raw.githubusercontent.com/astrnox/astrnox/output/github-snake.svg)
