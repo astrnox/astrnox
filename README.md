@@ -15,9 +15,6 @@
     <td valign="top" width="50%">
       <img src="https://github-stats-extended.vercel.app/api?username=astrnox&cache_seconds=86400&v=20260819v=20260820v=20260819v=20260819" alt="GitHub Stats" />
     </td>
-    <td valign="top" width="50%">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=astrnox&layout=compact&langs_count=4&theme=vue&v=20260819v=20260820v=20260819v=20260819" alt="Most Used Languages" />
-    </td>
   </tr>
 </table>
 <img src="https://raw.githubusercontent.com/astrnox/astrnox/main/github-metrics.svg" alt="Metrics" width="100%">
