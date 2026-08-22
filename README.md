@@ -2,7 +2,7 @@
 <div align="center">
   <h1>👋 Hi, I'm astrnox</h1>
 </div>
-
+[![GitHub Roast 评分徽章](https://ghfind.com/api/badge/astrnox?lang=zh)](https://ghfind.com/u/astrnox?ref=badge)
 <!-- ===== 联系方式 ===== -->
 ## 📫 找到我
 - 💬 QQ：3930523703
@@ -10,12 +10,10 @@
 
 <!-- ===== 数据卡片（并排显示）===== -->
 ## 📊 GitHub 数据
-<table>
 
 
 <img src="https://github-stats-extended.vercel.app/api?username=astrnox&cache_seconds=86400&v=20260821v=20260821v=20260820v=20260819v=20260819" alt="GitHub Stats" />
 
-</table>
 <img src="https://raw.githubusercontent.com/astrnox/astrnox/main/github-metrics.svg" alt="Metrics" width="100%">
 <!-- ===== 贡献蛇动画（由 snake.yml 每天生成）===== -->
 
