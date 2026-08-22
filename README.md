@@ -2,7 +2,7 @@
 <div align="center">
   <h1>👋 Hi, I'm astrnox</h1>
 </div>
-[![GitHub Roast 评分徽章](https://ghfind.com/api/badge/astrnox?lang=zh)](https://ghfind.com/u/astrnox?ref=badge)
+<a href="https://ghfind.com/u/astrnox?ref=badge"><img src="https://ghfind.com/api/badge/astrnox?lang=zh" alt="GitHub Roast 评分徽章" /></a>
 <!-- ===== 联系方式 ===== -->
 ## 📫 找到我
 - 💬 QQ：3930523703
