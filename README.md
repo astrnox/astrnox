@@ -14,7 +14,7 @@
 ## 📊 GitHub 数据
 
 
-<img src="https://github-stats-extended.vercel.app/api?username=astrnox&cache_seconds=86400&v=20260901v=20260902v=20260901v=20260831v=20260830v=20260829v=20260828v=20260826v=20260825v=20260824v=20260823v=20260822v=20260821v=20260820v=20260819v=20260819" alt="GitHub Stats" />
+<img src="https://github-stats-extended.vercel.app/api?username=astrnox&cache_seconds=86400&v=20260902v=20260902v=20260901v=20260831v=20260830v=20260829v=20260828v=20260826v=20260825v=20260824v=20260823v=20260822v=20260821v=20260820v=20260819v=20260819" alt="GitHub Stats" />
 
 <img src="https://raw.githubusercontent.com/astrnox/astrnox/main/github-metrics.svg" alt="Metrics" width="100%">
 <!-- ===== 贡献蛇动画（由 snake.yml 每天生成）===== -->
@@ -25,4 +25,4 @@
 
 <!-- ===== 连续提交 ===== -->
 ## 🔥 连续提交
-[![GitHub Streak](https://streak-stats.demolab.com?user=astrnox&theme=vue&v=20260901v=20260902v=20260901v=20260831v=20260830v=20260829v=20260828v=20260826v=20260825v=20260824v=20260823v=20260822v=20260821v=20260820v=20260819v=20260819)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=astrnox&theme=vue&v=20260902v=20260902v=20260901v=20260831v=20260830v=20260829v=20260828v=20260826v=20260825v=20260824v=20260823v=20260822v=20260821v=20260820v=20260819v=20260819)](https://git.io/streak-stats)
